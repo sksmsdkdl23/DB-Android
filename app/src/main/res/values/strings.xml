@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Choi_Lowenstein</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="add_header">Add an event</string>
+    <string name="add_item">Add an item</string>
+    <string name="edit_header">Edit an event</string>
+    <string name="edit_item_header">Edit an item</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="unit">Unit</string>
+    <string name="quantity">Quantity</string>
+    <string name="delete_event">Delete</string>
+    <string name="view_detail">Detail</string>
+    <string name="edit_event">Edit</string>
+    <string name="event_name">Event Name</string>
+</resources>
